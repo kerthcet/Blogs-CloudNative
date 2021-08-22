@@ -71,7 +71,7 @@
 
         当你提交 `PR` 时，Kubernetes 代码仓库CI流程会检查是否有CLA证书。
 
-        如何申请证书可以参考[官方文档](https://github.com/kubernetes/community/blob/master/CLA.md)或者[公司文档](https://dwiki.daocloud.io/pages/viewpage.action?pageId=40537344)。
+        如何申请证书可以参考[官方文档](https://github.com/kubernetes/community/blob/master/CLA.md)。
 
     2. 搜索 `first-good-issue`（你可以选择你感兴趣的或者你比较熟悉的 `SIG` ）
 
