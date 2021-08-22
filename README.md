@@ -10,7 +10,7 @@
 
     🌛 ️       工具集、经验分享或名人轶事。
 
-🎉 通告：[CNCF 项目远程带薪实习机会来啦，简历加分报酬多多！](https://mp.weixin.qq.com/s/wQyMTtw7VPpm04XhiPLltg)
+🎉 通告：[CNCF 项目远程带薪实习机会来啦，简历加分报酬多多！](https://mp.weixin.qq.com/s/wQyMTtw7VPpm04XhiPLltg) （[官方链接](https://github.com/cncf/mentoring/blob/main/lfx-mentorship/2021/03-Fall/README.md#timeline)）
 
 --------------------------------------------------------
 
