@@ -18,7 +18,7 @@
 1. [后Kubernetes时代的虚拟机管理技术之Virtual-Kubelet篇](https://mp.weixin.qq.com/s/Gn4O-NxVbVuagrc4uOO1RA) ⭐️⭐️
 2. [调试 Kubernetes 工作负载的最简单方法](https://mp.weixin.qq.com/s/Wi7eo2hJ7TNqu_UnHvx5pg) 🌛
 
-## Containerd
+## Runtime
 1. [一文搞定 Containerd 的使用](https://mp.weixin.qq.com/s/--t74RuFGMmTGl2IT-TFrg) ⭐️⭐️⭐️
 
 ## WebAssembly
