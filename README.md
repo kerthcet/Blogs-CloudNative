@@ -17,7 +17,7 @@
 ## Kubernetes
 1. [后 Kubernetes 时代的虚拟机管理技术之 Virtual-Kubelet 篇](https://mp.weixin.qq.com/s/Gn4O-NxVbVuagrc4uOO1RA) ⭐️⭐️
 2. [调试 Kubernetes 工作负载的最简单方法](https://mp.weixin.qq.com/s/Wi7eo2hJ7TNqu_UnHvx5pg) 🌛
-3. [Kubernetes 开源手册](https://github.com/kerthcet/Blogs-CloudNative/blob/main/KubernetesDeveloperHandbook.md) 🌛
+3. [Kubernetes 开源入门手册](https://github.com/kerthcet/Blogs-CloudNative/blob/main/KubernetesDeveloperHandbook.md) 🌛
 ## Runtime
 1. [一文搞定 Containerd 的使用](https://mp.weixin.qq.com/s/--t74RuFGMmTGl2IT-TFrg) ⭐️⭐️⭐️
 
