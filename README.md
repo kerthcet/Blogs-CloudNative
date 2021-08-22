@@ -18,6 +18,8 @@
 1. [后 Kubernetes 时代的虚拟机管理技术之 Virtual-Kubelet 篇](https://mp.weixin.qq.com/s/Gn4O-NxVbVuagrc4uOO1RA) ⭐️⭐️
 2. [调试 Kubernetes 工作负载的最简单方法](https://mp.weixin.qq.com/s/Wi7eo2hJ7TNqu_UnHvx5pg) 🌛
 3. [Kubernetes 开源入门手册](https://github.com/kerthcet/Blogs-CloudNative/blob/main/KubernetesDeveloperHandbook.md) 🌛
+4. [万字长文：K8s 创建 pod 时，背后到底发生了什么？](https://mp.weixin.qq.com/s/HjoU_RKBQKPCQPEQZ_fBNA) ⭐️⭐️
+
 ## Runtime
 1. [一文搞定 Containerd 的使用](https://mp.weixin.qq.com/s/--t74RuFGMmTGl2IT-TFrg) ⭐️⭐️⭐️
 
@@ -26,3 +28,4 @@
 
 ## Network
 1. [Packet Traveling](https://www.practicalnetworking.net/series/packet-traveling/packet-traveling/) ⭐️⭐️
+2. [读完这篇文章，就再也不怕遇到网络问题啦！](https://mp.weixin.qq.com/s/Tnerf7M_a6HUC4ucaOWzeg)⭐️⭐️
