@@ -15,7 +15,7 @@
 --------------------------------------------------------
 
 ## OpenSource
-1. [Kubernetes 开源入门手册](https://github.com/kerthcet/Blogs-CloudNative/blob/main/KubernetesDeveloperHandbook.md) 🌛
+1. [Kubernetes 开源入门手册](https://mp.weixin.qq.com/s?__biz=MzU3NDk5Nzc2OQ==&mid=2247484024&idx=1&sn=8e3d8ba79589d1078f2e0908f7b30014&scene=19#wechat_redirect) 🌛
 
 ## Kubernetes
 1. [后 Kubernetes 时代的虚拟机管理技术之 Virtual-Kubelet 篇](https://mp.weixin.qq.com/s/Gn4O-NxVbVuagrc4uOO1RA) ⭐️⭐️
@@ -24,6 +24,9 @@
 4. [深入理解 Kubelet 中的 PLEG is not healthy](https://fuckcloudnative.io/posts/understanding-the-pleg-is-not-healthy/) ⭐️
 5. [Kubernetes 故障检测和自愈工具 NPD](https://mp.weixin.qq.com/s/n-t_hoo7CNTLLsjyiVD_jQ) ⭐️
 
+## Karmada
+1. [从karmada API角度分析多云环境下的应用资源编排：设计与实现
+](https://zhuanlan.zhihu.com/p/407990257?utm_source=wechat_session&utm_medium=social&utm_oi=46685577281536&utm_content=group2_article&utm_campaign=shareopn&wechatShare=1&s_r=0) ⭐️⭐️
 ## Runtime
 1. [一文搞定 Containerd 的使用](https://mp.weixin.qq.com/s/--t74RuFGMmTGl2IT-TFrg) ⭐️⭐️⭐️
 
