@@ -24,6 +24,9 @@
 4. [深入理解 Kubelet 中的 PLEG is not healthy](https://fuckcloudnative.io/posts/understanding-the-pleg-is-not-healthy/) ⭐️
 5. [Kubernetes 故障检测和自愈工具 NPD](https://mp.weixin.qq.com/s/n-t_hoo7CNTLLsjyiVD_jQ) ⭐️
 
+## Etcd
+1. [万级K8s集群背后etcd稳定性及性能优化实践](https://mp.weixin.qq.com/s/78feo0dYKcvMAv84Q24zuw) ⭐️⭐️⭐️
+
 ## Karmada
 1. [从karmada API角度分析多云环境下的应用资源编排：设计与实现
 ](https://zhuanlan.zhihu.com/p/407990257?utm_source=wechat_session&utm_medium=social&utm_oi=46685577281536&utm_content=group2_article&utm_campaign=shareopn&wechatShare=1&s_r=0) ⭐️⭐️
