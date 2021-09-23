@@ -1,7 +1,7 @@
 # 云原生知识学习参考![](https://visitor-badge.glitch.me/badge?page_id=kerthcet.Blogs-CloudNative)
 围绕`云原生`知识体系，收集一些不错的文章。仅供学习参考，不得用于商业用途。
 
-🌱 持续更新，`Welcome Contributor`！
+🌱 持续更新，`欢迎投稿！`
 
     ⭐️⭐️⭐️⭐️️️️ ️️️     解读技术真谛，洞见技术趋势。必读。
     ⭐️⭐️⭐️       技术解读深入浅出，生产环境最佳实践。强烈推荐。
