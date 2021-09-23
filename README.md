@@ -23,6 +23,7 @@
 3. [万字长文：K8s 创建 pod 时，背后到底发生了什么？](https://mp.weixin.qq.com/s/HjoU_RKBQKPCQPEQZ_fBNA) ⭐️⭐️
 4. [深入理解 Kubelet 中的 PLEG is not healthy](https://fuckcloudnative.io/posts/understanding-the-pleg-is-not-healthy/) ⭐️
 5. [Kubernetes 故障检测和自愈工具 NPD](https://mp.weixin.qq.com/s/n-t_hoo7CNTLLsjyiVD_jQ) ⭐️
+6. [kubelet 配置资源预留的姿势](https://mp.weixin.qq.com/s/Wg9o59wvHkQV_euihCkOjw) ⭐️
 
 ## Etcd
 1. [万级K8s集群背后etcd稳定性及性能优化实践](https://mp.weixin.qq.com/s/78feo0dYKcvMAv84Q24zuw) ⭐️⭐️⭐️
