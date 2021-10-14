@@ -48,3 +48,4 @@
 
 ## Security
 1. [云原生安全开源项目汇总](https://mp.weixin.qq.com/s/y7Et96lahN9raRlIzB3dCg) ⭐️
+2. [震惊！！K8s 全面升级 Pod 安全特性：PodSecurity (v1.22)](https://mp.weixin.qq.com/s/7qcVmYVOdi8OjbKnnURmLg) ⭐️
