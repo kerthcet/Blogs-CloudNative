@@ -39,6 +39,10 @@
 1. [Packet Traveling](https://www.practicalnetworking.net/series/packet-traveling/packet-traveling/) ⭐️⭐️
 2. [读完这篇文章，就再也不怕遇到网络问题啦！](https://mp.weixin.qq.com/s/Tnerf7M_a6HUC4ucaOWzeg)⭐️⭐️
 3. [深入理解CNI（容器网络接口）](https://mp.weixin.qq.com/s/TpE7ZFh-b1HXvq9HyMZ17g) ⭐️⭐️
+4. [保姆级教程，从概念到实践帮你快速上手 Apache APISIX Ingress](https://mp.weixin.qq.com/s/PixbW7-sddyU8MIvL1FBYA) ⭐️
+
+## Storage
+1. [机器学习平台统一化分布式存储Ceph的进阶优化](https://mp.weixin.qq.com/s/TiBbmjW-YW0tx2nStI4XBA) ⭐️
 
 
 ## Security
