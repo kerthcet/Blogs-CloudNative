@@ -1,5 +1,5 @@
 ## 项目介绍
-[Karmada](https://github.com/karmada-io/karmada)是一个多云多集群 Kubernetes 编排系统，填补了 Kubernetes 在多集群管理方面的空白，更多详细介绍可以参考 Github 主页，本文主要是对 Karmada 调度策略做一些介绍。
+[Karmada](https://github.com/karmada-io/karmada)是一个多云多集群 Kubernetes 编排系统，填补了 Kubernetes 在多集群管理方面的空白，更多详细内容可以参考 Github 主页，本文主要围绕应用层面对 Karmada 调度策略做一些简单介绍，不涉及源码。
 
     版本号: karmada-io/karmada@be2f596ecf
 
@@ -28,11 +28,13 @@
 ## 调度逻辑
 整体调度逻辑如下图所示，图片逻辑已经比较清楚了，这里就不展开。
 
-![image](https://github.com/kerthcet/Blogs-CloudNative/blob/main/snapshots/karmada-schedule-process.png)
+![image](https://github.com/kerthcet/Blogs-CloudNative/blob/main/snapshots/karmada-schedule-process.jpeg)
 
 
 ## 调度策略
-我们先简单部署一个 karmada 集群，直接在该项目根目录运行 `"./hack/local-up-karmada.sh"` 就可以通过 `kind` 部署一个4节点集群，一个 `master` 节点和 3个 `member` 节点。假设我们在控制集群创建了一个副本数为5的 `nginx deployment`，现在要创建 `PropagationPolicy` 进行调度。
+我们先简单部署一个 karmada 集群，直接在该项目根目录运行 `"./hack/local-up-karmada.sh"` 就可以通过 `kind` 部署一个4节点集群，一个 `master` 节点和 3个 `member` 节点。
+
+假设我们在控制集群创建了一个副本数为5的 `nginx deployment`，现在通过`PropagationPolicy` 进行调度策略的控制。
 
 ### 副本机制
 1. Duplicated 策略
@@ -157,4 +159,4 @@
 ### 总结
 `karmada` 目前已经作为 `sandbox` 项目由华为捐赠给了 `CNCF`，但是整个 `Roadmap` 还是有很多功能没有完成，我自己最近也在为该项目贡献代码，希望后续可以持续发力。
 
-![image](https://github.com/kerthcet/Blogs-CloudNative/blob/main/snapshots/karmada-roadmap.png)
+![image](https://github.com/kerthcet/Blogs-CloudNative/blob/main/snapshots/karmada-roadmap.jpeg)
