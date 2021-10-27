@@ -21,7 +21,7 @@
 4. [深入理解 Kubelet 中的 PLEG is not healthy](https://fuckcloudnative.io/posts/understanding-the-pleg-is-not-healthy/) ⭐️
 5. [Kubernetes 故障检测和自愈工具 NPD](https://mp.weixin.qq.com/s/n-t_hoo7CNTLLsjyiVD_jQ) ⭐️
 6. [kubelet 配置资源预留的姿势](https://mp.weixin.qq.com/s/Wg9o59wvHkQV_euihCkOjw) ⭐️
-7. [部署一个 Containerd 容器运行时的 Kubernetes 集群](https://mp.weixin.qq.com/s/TUmiqW-So6s7Jsz1CVCy8A) ️⭐️
+7. [使用 kube-vip 搭建高可用 Containerd Kubernetes 集群](https://mp.weixin.qq.com/s/ypIObV4ARzo-DOY81EDc_Q) ️⭐️
 
 ## Etcd
 1. [万级K8s集群背后etcd稳定性及性能优化实践](https://mp.weixin.qq.com/s/78feo0dYKcvMAv84Q24zuw) ⭐️⭐️⭐️
@@ -31,6 +31,7 @@
 ](https://zhuanlan.zhihu.com/p/407990257?utm_source=wechat_session&utm_medium=social&utm_oi=46685577281536&utm_content=group2_article&utm_campaign=shareopn&wechatShare=1&s_r=0) ⭐️⭐️
 ## Runtime
 1. [一文搞定 Containerd 的使用](https://mp.weixin.qq.com/s/--t74RuFGMmTGl2IT-TFrg) ⭐️⭐️⭐️
+2. [Kubernetes CRI 分析 - kubelet 创建 Pod 分析](https://mp.weixin.qq.com/s/AG6H_mPuTu6-_ISQWu3YHw?forceh5=1) ⭐️
 
 ## WebAssembly
 1. [初识 WebAssembly：灵活、可移植、高性能](https://mp.weixin.qq.com/s/sfuXGhDSCNxfElx55aboew) ⭐️
@@ -42,7 +43,8 @@
 4. [保姆级教程，从概念到实践帮你快速上手 Apache APISIX Ingress](https://mp.weixin.qq.com/s/PixbW7-sddyU8MIvL1FBYA) ⭐️
 
 ## Storage
-1. [机器学习平台统一化分布式存储Ceph的进阶优化](https://mp.weixin.qq.com/s/TiBbmjW-YW0tx2nStI4XBA) ⭐️
+1. [如何接入 K8s 持久化存储？K8s CSI 实现机制浅析](https://mp.weixin.qq.com/s/HZhe8a7MHehs6sBOE0ck6Q) ⭐️
+2. [机器学习平台统一化分布式存储Ceph的进阶优化](https://mp.weixin.qq.com/s/TiBbmjW-YW0tx2nStI4XBA) ⭐️
 
 
 ## Security
@@ -51,6 +53,9 @@
 
 ## MachineLearning
 1. [毫末智行 Fluid 实践：云原生 AI 让汽车变得“更聪明”](https://mp.weixin.qq.com/s/rvRUhNqM9Xq0PLDbtq62uw) ⭐️
+
+## Edge
+1. [多种边缘集群管理方案对比选型](https://mp.weixin.qq.com/s/DnOvI-77jivQTmEiYkg6WQ) ⭐️
 
 ## Others
 1. [Kubernetes 开源入门手册](https://mp.weixin.qq.com/s?__biz=MzU3NDk5Nzc2OQ==&mid=2247484024&idx=1&sn=8e3d8ba79589d1078f2e0908f7b30014&scene=19#wechat_redirect) 🌛
