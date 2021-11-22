@@ -38,7 +38,8 @@
 * [初识 WebAssembly：灵活、可移植、高性能](https://mp.weixin.qq.com/s/sfuXGhDSCNxfElx55aboew) ⭐️
 
 ## Network
-* [网易轻舟对 CIlium 容器网络的探索和实践](https://mp.weixin.qq.com/s/I8eTBjwp9Nh5TmYmC94VoA) ⭐️⭐️
+* [网易轻舟对 Cilium 容器网络的探索和实践](https://mp.weixin.qq.com/s/I8eTBjwp9Nh5TmYmC94VoA) ⭐️⭐️
+* [eBPF 如何简化服务网格](https://mp.weixin.qq.com/s/C_budclaSOBufqQYhdh3DA) ⭐️⭐️
 * [读完这篇文章，就再也不怕遇到网络问题啦！](https://mp.weixin.qq.com/s/Tnerf7M_a6HUC4ucaOWzeg) ⭐️⭐️
 * [深入理解CNI（容器网络接口）](https://mp.weixin.qq.com/s/TpE7ZFh-b1HXvq9HyMZ17g) ⭐️⭐️
 * [网易轻舟对 CIlium 容器网络的探索和实践](https://mp.weixin.qq.com/s/I8eTBjwp9Nh5TmYmC94VoA) ⭐️⭐️
@@ -54,6 +55,7 @@
 ## Security
 * [云原生安全开源项目汇总](https://mp.weixin.qq.com/s/y7Et96lahN9raRlIzB3dCg) ⭐️
 * [震惊！！K8s 全面升级 Pod 安全特性：PodSecurity (v1.22)](https://mp.weixin.qq.com/s/7qcVmYVOdi8OjbKnnURmLg) ⭐️
+* [（译）Kubernetes 策略引擎对比：OPA/Gatekeeper vs Kyverno](https://cloud.tencent.com/developer/article/1796739) ⭐️
 
 ## MachineLearning
 * [毫末智行 Fluid 实践：云原生 AI 让汽车变得“更聪明”](https://mp.weixin.qq.com/s/rvRUhNqM9Xq0PLDbtq62uw) ⭐️
