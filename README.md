@@ -23,6 +23,7 @@
 * [使用 kube-vip 搭建高可用 Containerd Kubernetes 集群](https://mp.weixin.qq.com/s/ypIObV4ARzo-DOY81EDc_Q) ️⭐️
 * [Kubernetes API 访问控制机制简介](https://mp.weixin.qq.com/s/WTABqEpp5ZWEAl4dbVySHQ) ⭐️
 * [调试 Kubernetes 工作负载的最简单方法](https://mp.weixin.qq.com/s/Wi7eo2hJ7TNqu_UnHvx5pg) ⭐️
+* [Kubernetes CRD多版本与升级机制](https://developer.aliyun.com/article/798704) ⭐️
 
 ## Etcd
 * [万级K8s集群背后etcd稳定性及性能优化实践](https://mp.weixin.qq.com/s/78feo0dYKcvMAv84Q24zuw) ⭐️⭐️⭐️
@@ -42,7 +43,6 @@
 * [eBPF 如何简化服务网格](https://mp.weixin.qq.com/s/C_budclaSOBufqQYhdh3DA) ⭐️⭐️
 * [读完这篇文章，就再也不怕遇到网络问题啦！](https://mp.weixin.qq.com/s/Tnerf7M_a6HUC4ucaOWzeg) ⭐️⭐️
 * [深入理解CNI（容器网络接口）](https://mp.weixin.qq.com/s/TpE7ZFh-b1HXvq9HyMZ17g) ⭐️⭐️
-* [网易轻舟对 CIlium 容器网络的探索和实践](https://mp.weixin.qq.com/s/I8eTBjwp9Nh5TmYmC94VoA) ⭐️⭐️
 * [Packet Traveling](https://www.practicalnetworking.net/series/packet-traveling/packet-traveling/) ⭐️
 * [保姆级教程，从概念到实践帮你快速上手 Apache APISIX Ingress](https://mp.weixin.qq.com/s/PixbW7-sddyU8MIvL1FBYA) ⭐️
 * [5 种最常见的 DNS 故障诊断及问题处理方法](https://mp.weixin.qq.com/s/-hsgZnhtPcE66Kscc_e8WA) ⭐️
