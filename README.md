@@ -60,6 +60,9 @@
 ## MachineLearning
 * [毫末智行 Fluid 实践：云原生 AI 让汽车变得“更聪明”](https://mp.weixin.qq.com/s/rvRUhNqM9Xq0PLDbtq62uw) ⭐️
 
+## Observability
+* [云原生观测性 - OpenTelemetry](https://mp.weixin.qq.com/s/8VrOeeiOfE1fBOGh8y0ULQ) ⭐️
+
 ## Edge
 * [多种边缘集群管理方案对比选型](https://mp.weixin.qq.com/s/DnOvI-77jivQTmEiYkg6WQ) ⭐️
 
