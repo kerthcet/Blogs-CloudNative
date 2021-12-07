@@ -57,6 +57,7 @@
 * [云原生安全开源项目汇总](https://mp.weixin.qq.com/s/y7Et96lahN9raRlIzB3dCg) ⭐️
 * [震惊！！K8s 全面升级 Pod 安全特性：PodSecurity (v1.22)](https://mp.weixin.qq.com/s/7qcVmYVOdi8OjbKnnURmLg) ⭐️
 * [（译）Kubernetes 策略引擎对比：OPA/Gatekeeper vs Kyverno](https://cloud.tencent.com/developer/article/1796739) ⭐️
+* [Open Policy Agent(OPA) 入门实践](https://mp.weixin.qq.com/s?__biz=MzI5ODk5ODI4Nw==&mid=2247515795&idx=5&sn=6c29105975450ed17b14760d63c9ea32&chksm=ec9fb1f3dbe838e56e395704bd077af1cf75f7a7b0be441f6f9d9e346f2fd33b2ecdba22d025&mpshare=1&scene=1&srcid=120704l3t0KjhzULFquOeekq&sharer_sharetime=1638855116202&sharer_shareid=bcf38af5e57bf2958c0f52953575a7e6&version=3.1.20.90367&platform=mac#rd) ⭐️
 
 ## MachineLearning
 * [毫末智行 Fluid 实践：云原生 AI 让汽车变得“更聪明”](https://mp.weixin.qq.com/s/rvRUhNqM9Xq0PLDbtq62uw) ⭐️
