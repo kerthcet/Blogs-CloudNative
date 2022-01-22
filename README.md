@@ -51,6 +51,8 @@
 * [保姆级教程，从概念到实践帮你快速上手 Apache APISIX Ingress](https://mp.weixin.qq.com/s/PixbW7-sddyU8MIvL1FBYA) ⭐️
 * [5 种最常见的 DNS 故障诊断及问题处理方法](https://mp.weixin.qq.com/s/-hsgZnhtPcE66Kscc_e8WA) ⭐️
 * [Cilium 容器网络的落地实践](https://mp.weixin.qq.com/s/p_yBxW31tGPacALVai5kZg?forceh5=1) ⭐️
+* [实践案例 | Kube-OVN在字节跳动的应用场景和技术探索](https://mp.weixin.qq.com/s/qMsyCEKXufa6UOz8i6zZeg) ⭐️
+* [eBPF 科普第一弹｜ 初识 eBPF，你应该知道的知识](https://mp.weixin.qq.com/s/jEgvSYwKEFDr3tuiuNFqxg) ⭐️
 
 ## Storage
 * [如何接入 K8s 持久化存储？K8s CSI 实现机制浅析](https://mp.weixin.qq.com/s/HZhe8a7MHehs6sBOE0ck6Q) ⭐️
@@ -61,6 +63,7 @@
 * [震惊！！K8s 全面升级 Pod 安全特性：PodSecurity (v1.22)](https://mp.weixin.qq.com/s/7qcVmYVOdi8OjbKnnURmLg) ⭐️
 * [Kyverno 和 OPA/Gatekeeper 的一点对比](https://mp.weixin.qq.com/s/hqDTM1nnpZn7GzBviGdEcg) ⭐️
 * [Open Policy Agent(OPA) 入门实践](https://mp.weixin.qq.com/s?__biz=MzI5ODk5ODI4Nw==&mid=2247515795&idx=5&sn=6c29105975450ed17b14760d63c9ea32&chksm=ec9fb1f3dbe838e56e395704bd077af1cf75f7a7b0be441f6f9d9e346f2fd33b2ecdba22d025&mpshare=1&scene=1&srcid=120704l3t0KjhzULFquOeekq&sharer_sharetime=1638855116202&sharer_shareid=bcf38af5e57bf2958c0f52953575a7e6&version=3.1.20.90367&platform=mac#rd) ⭐️
+* [从Kubernetes事件中提取价值](https://mp.weixin.qq.com/s/Y2Fu3d1ikhkTW-AMTOje-Q) ⭐️
 
 ## MachineLearning
 * [毫末智行 Fluid 实践：云原生 AI 让汽车变得“更聪明”](https://mp.weixin.qq.com/s/rvRUhNqM9Xq0PLDbtq62uw) ⭐️
