@@ -46,7 +46,8 @@
 * [读完这篇文章，就再也不怕遇到网络问题啦！](https://mp.weixin.qq.com/s/Tnerf7M_a6HUC4ucaOWzeg) ⭐️⭐️
 * [深入理解CNI（容器网络接口）](https://mp.weixin.qq.com/s/TpE7ZFh-b1HXvq9HyMZ17g) ⭐️⭐️
 * [图解 K8S 控制器 Node 生命周期管理](https://cloud.tencent.com/developer/article/1645033) ⭐️⭐️
-* [译文：服务网格将使用 eBPF ？是的，但 Envoy 代理将继续存在](https://mp.weixin.qq.com/s/daltoMGxL6aN4BcyNX7sig)
+* [追踪 Kubernetes 中的网络流量](https://mp.weixin.qq.com/s/GRq7GrQD0nfYvPNpUrzHng) ⭐️⭐️
+* [译文：服务网格将使用 eBPF ？是的，但 Envoy 代理将继续存在](https://mp.weixin.qq.com/s/daltoMGxL6aN4BcyNX7sig) ⭐️
 * [Packet Traveling](https://www.practicalnetworking.net/series/packet-traveling/packet-traveling/) ⭐️
 * [保姆级教程，从概念到实践帮你快速上手 Apache APISIX Ingress](https://mp.weixin.qq.com/s/PixbW7-sddyU8MIvL1FBYA) ⭐️
 * [5 种最常见的 DNS 故障诊断及问题处理方法](https://mp.weixin.qq.com/s/-hsgZnhtPcE66Kscc_e8WA) ⭐️
