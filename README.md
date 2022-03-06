@@ -54,6 +54,8 @@
 * [Cilium 容器网络的落地实践](https://mp.weixin.qq.com/s/p_yBxW31tGPacALVai5kZg?forceh5=1) ⭐️
 * [实践案例 | Kube-OVN在字节跳动的应用场景和技术探索](https://mp.weixin.qq.com/s/qMsyCEKXufa6UOz8i6zZeg) ⭐️
 * [eBPF 科普第一弹｜ 初识 eBPF，你应该知道的知识](https://mp.weixin.qq.com/s/jEgvSYwKEFDr3tuiuNFqxg) ⭐️
+* [云原生网络利器--Cilium 总览](https://mp.weixin.qq.com/s/_k8oXtrxkFe3EyeB3KwnrA) ⭐️
+* [云原生网络利器--Cilium 之 eBPF 篇](https://mp.weixin.qq.com/s/Q0iSZ1AsJmefCM0lPty6jA) ⭐️
 
 ## Storage
 * [如何接入 K8s 持久化存储？K8s CSI 实现机制浅析](https://mp.weixin.qq.com/s/HZhe8a7MHehs6sBOE0ck6Q) ⭐️
