@@ -29,11 +29,15 @@
 ## Etcd
 * [万级K8s集群背后etcd稳定性及性能优化实践](https://mp.weixin.qq.com/s/78feo0dYKcvMAv84Q24zuw) ⭐️⭐️⭐️
 
+## Client-go
+* [client-go 之 Indexer 的理解](https://mp.weixin.qq.com/s/xCa6yZTk0X76IZhOx6IbHQ)️ ⭐️⭐️
+
 ## Multi-Clusters
 * [从karmada API角度分析多云环境下的应用资源编排：设计与实现](https://zhuanlan.zhihu.com/p/407990257?utm_source=wechat_session&utm_medium=social&utm_oi=46685577281536&utm_content=group2_article&utm_campaign=shareopn&wechatShare=1&s_r=0) ⭐️⭐️
 
 ## Container
 * [一文搞定 Containerd 的使用](https://mp.weixin.qq.com/s/--t74RuFGMmTGl2IT-TFrg) ⭐️⭐️⭐️
+* [Containerd深度剖析-runtime篇](https://mp.weixin.qq.com/s/F9-ZtsKBsrPLmtexCnaCmg) ⭐️
 * [Kubernetes CRI 分析 - kubelet 创建 Pod 分析](https://mp.weixin.qq.com/s/AG6H_mPuTu6-_ISQWu3YHw?forceh5=1) ⭐️
 * [彻底搞懂容器技术的基石： cgroup](https://mp.weixin.qq.com/s/6Ts6-aZDr8qOdnaNUqwTFQ) ⭐️
 
@@ -69,6 +73,8 @@
 * [从Kubernetes事件中提取价值](https://mp.weixin.qq.com/s/Y2Fu3d1ikhkTW-AMTOje-Q) ⭐️
 
 ## MachineLearning
+* [网易有数机器学习平台批调度与k8s调度系统的深度解析](https://mp.weixin.qq.com/s/s-PecEMoLX-Gt5nfnibpwg)️ ⭐️⭐️
+* [火山引擎，云原生机器学习平台架构设计](https://mp.weixin.qq.com/s/1rw4o1LkQVuGAOIseGhTSg) ⭐️
 * [毫末智行 Fluid 实践：云原生 AI 让汽车变得“更聪明”](https://mp.weixin.qq.com/s/rvRUhNqM9Xq0PLDbtq62uw) ⭐️
 
 ## Observability
